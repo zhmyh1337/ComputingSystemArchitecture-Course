@@ -29,7 +29,7 @@ void ContainerInRnd(Container* this, FILE* file);
 // Вывод содержимого контейнера
 void ContainerOut(Container* this, FILE* file);
 
-// Сортировка контейнера
+// Сортировка контейнера методом Straight Insertion
 void ContainerSort(Container* this);
 
 #endif
