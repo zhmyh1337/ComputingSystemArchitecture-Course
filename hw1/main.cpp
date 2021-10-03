@@ -1,12 +1,7 @@
-﻿// СomputingSystemArchitecture-Course.cpp : Defines the entry point for the application.
-//
-
-#include "СomputingSystemArchitecture-Course.h"
-
-using namespace std;
+﻿#include <iostream>
 
 int main()
 {
-	cout << "Hello CMake." << endl;
+	std::cout << "Hello CMake." << std::endl;
 	return 0;
 }
