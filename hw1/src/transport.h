@@ -3,6 +3,8 @@
 
 #include <stdio.h>
 #include "plane.h"
+#include "train.h"
+#include "ship.h"
 
 typedef struct _Transport
 {
@@ -16,19 +18,21 @@ typedef struct _Transport
     union
     {
         Plane plane;
+        Train train;
+        Ship ship;
     };
 } Transport;
 
 // Ввод обобщенного транспорта
-void In(Transport* this, FILE* file);
+void TransportIn(Transport* this, FILE* file);
 
 // Случайный ввод обобщенного транспорта
-void InRnd(Transport* this, FILE* file);
+void TransportInRnd(Transport* this, FILE* file);
 
 // Вывод обобщенного транспорта
-void Out(Transport* this, FILE* file);
+void TransportOut(Transport* this, FILE* file);
 
 // Идеальное время прохождения пути
-float IdealTime(Transport* this);
+float TransportIdealTime(Transport* this);
 
 #endif
