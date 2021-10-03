@@ -1,0 +1,9 @@
+plane 1 2.5 3 4
+plane 343 22.11 31 411
+plane 12 253.33 33 4
+plane 31 222 35 43
+train 53 64.11 75
+train 513 644 725
+ship 8 91.3 10 tanker
+ship 111 1 10 tow
+ship 8 9 1011 liner

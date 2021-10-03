@@ -11,6 +11,14 @@ void ContainerInit(Container* this)
 
 void ContainerIn(Container* this, FILE* file)
 {
+    // проверка на пустой файл
+    fseek(file, 0, SEEK_END);
+    if (!ftell(file))
+    {
+        return;
+    }
+
+    rewind(file);
     while (!feof(file))
     {
         TransportIn(&this->data[this->len++], file);
