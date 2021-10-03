@@ -7,6 +7,7 @@
 
 #include <stdio.h>
 
+// Корабль
 typedef struct _Ship
 {
     // скорость

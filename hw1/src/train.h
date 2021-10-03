@@ -7,6 +7,7 @@
 
 #include <stdio.h>
 
+// Поезд
 typedef struct _Train
 {
     // скорость

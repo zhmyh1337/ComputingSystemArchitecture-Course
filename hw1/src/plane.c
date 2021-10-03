@@ -21,8 +21,8 @@ void PlaneInRnd(Plane* this, FILE* file)
 
 void PlaneOut(Plane* this, FILE* file)
 {
-    fprintf(file, "Plane: speed = %d, distance = %f, max distance = %d, carrying capacity = %d\n",
-        this->speed, this->distance, this->maxDistance, this->carryingCapacity);
+    fprintf(file, "Plane: speed = %d, distance = %f, max distance = %d, carrying capacity = %d, ideal time = %f\n",
+        this->speed, this->distance, this->maxDistance, this->carryingCapacity, PlaneIdealTime(this));
 }
 
 float PlaneIdealTime(Plane* this)

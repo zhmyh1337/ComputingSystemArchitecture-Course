@@ -57,10 +57,13 @@ void TransportOut(Transport* this, FILE* file)
     {
     case PlaneType:
         PlaneOut(&this->plane, file);
+        break;
     case TrainType:
         TrainOut(&this->train, file);
+        break;
     case ShipType:
         ShipOut(&this->ship, file);
+        break;
     }
 }
 

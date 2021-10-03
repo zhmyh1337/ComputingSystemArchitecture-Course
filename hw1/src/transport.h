@@ -1,11 +1,16 @@
 #ifndef __TRANSPORT_H
 #define __TRANSPORT_H
 
+//------------------------------------------------------------------------------
+// transport.h - содержит описание обобщенного транспорта
+//------------------------------------------------------------------------------
+
 #include <stdio.h>
 #include "plane.h"
 #include "train.h"
 #include "ship.h"
 
+// Обобщенный транспорт
 typedef struct _Transport
 {
     enum

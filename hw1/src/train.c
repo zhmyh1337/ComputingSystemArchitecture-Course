@@ -20,8 +20,8 @@ void TrainInRnd(Train* this, FILE* file)
 
 void TrainOut(Train* this, FILE* file)
 {
-    fprintf(file, "Train: speed = %d, distance = %f, cars count = %d\n",
-        this->speed, this->distance, this->carsCount);
+    fprintf(file, "Train: speed = %d, distance = %f, cars count = %d, ideal time = %f\n",
+        this->speed, this->distance, this->carsCount, TrainIdealTime(this));
 }
 
 float TrainIdealTime(Train* this)

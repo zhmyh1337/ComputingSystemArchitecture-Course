@@ -65,8 +65,8 @@ void ShipOut(Ship* this, FILE* file)
         break;
     }
 
-    fprintf(file, "Ship: speed = %d, distance = %f, displacement = %d, vessel type = %s\n",
-        this->speed, this->distance, this->displacement, vesselTypeStr);
+    fprintf(file, "Ship: speed = %d, distance = %f, displacement = %d, vessel type = %s, ideal time = %f\n",
+        this->speed, this->distance, this->displacement, vesselTypeStr, ShipIdealTime(this));
 }
 
 float ShipIdealTime(Ship* this)

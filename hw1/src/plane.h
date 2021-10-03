@@ -7,6 +7,7 @@
 
 #include <stdio.h>
 
+// Самолет
 typedef struct _Plane
 {
     // скорость
