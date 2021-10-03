@@ -1,4 +1,4 @@
-#include <io.h>
+п»ї#include <io.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include "input_helper.h"
@@ -11,7 +11,7 @@ void ContainerInit(Container* this)
 
 void ContainerIn(Container* this, FILE* file)
 {
-    // проверка на пустой файл
+    // РїСЂРѕРІРµСЂРєР° РЅР° РїСѓСЃС‚РѕР№ С„Р°Р№Р»
     fseek(file, 0, SEEK_END);
     if (!ftell(file))
     {

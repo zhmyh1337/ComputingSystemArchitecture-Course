@@ -1,4 +1,4 @@
-#include <stdlib.h>
+﻿#include <stdlib.h>
 #include <string.h>
 #include "ship.h"
 #include "input_helper.h"
