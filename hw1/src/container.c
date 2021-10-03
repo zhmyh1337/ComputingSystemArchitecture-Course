@@ -11,7 +11,7 @@ void ContainerInit(Container* this)
 
 void ContainerIn(Container* this, FILE* file)
 {
-    while (!eof(file))
+    while (!feof(file))
     {
         TransportIn(&this->data[this->len++], file);
     }
