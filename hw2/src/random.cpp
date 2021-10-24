@@ -7,7 +7,7 @@ Random::Random(int seed)
 
 int Random::Next(int from, int to)
 {
-    std::uniform_int_distribution<int> uni(from, to);
+    std::uniform_int_distribution<int> uni(from, to - 1);
     return uni(m_rng);
 }
 

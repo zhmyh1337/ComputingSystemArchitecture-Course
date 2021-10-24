@@ -1,0 +1,103 @@
+Before sort:
+Plane: speed = 845, distance = 4985.92, ideal time = 5.9005, max distance = 11263, carrying capacity = 368
+Ship: speed = 313, distance = 1511.66, ideal time = 4.82959, displacement = 24432, vessel type = tanker
+Train: speed = 248, distance = 1982.9, ideal time = 7.99558, cars count = 23
+Plane: speed = 13, distance = 3348.73, ideal time = 257.595, max distance = 242, carrying capacity = 721
+Plane: speed = 716, distance = 2095.97, ideal time = 2.92734, max distance = 7204, carrying capacity = 346
+Train: speed = 723, distance = 2217.26, ideal time = 3.06676, cars count = 12
+Ship: speed = 829, distance = 2672.07, ideal time = 3.22324, displacement = 20487, vessel type = tanker
+Plane: speed = 703, distance = 2793.45, ideal time = 3.97361, max distance = 23166, carrying capacity = 303
+Plane: speed = 392, distance = 3891.95, ideal time = 9.92843, max distance = 21785, carrying capacity = 929
+Plane: speed = 223, distance = 1567.12, ideal time = 7.02745, max distance = 18249, carrying capacity = 998
+Plane: speed = 721, distance = 4325.1, ideal time = 5.99875, max distance = 12088, carrying capacity = 865
+Train: speed = 320, distance = 195.274, ideal time = 0.610231, cars count = 31
+Plane: speed = 594, distance = 4390.71, ideal time = 7.39177, max distance = 16999, carrying capacity = 446
+Plane: speed = 459, distance = 3358.27, ideal time = 7.31649, max distance = 27481, carrying capacity = 473
+Train: speed = 627, distance = 3459.39, ideal time = 5.51736, cars count = 9
+Ship: speed = 323, distance = 3432.5, ideal time = 10.6269, displacement = 10848, vessel type = tow
+Ship: speed = 565, distance = 170.857, ideal time = 0.302401, displacement = 26031, vessel type = tow
+Plane: speed = 832, distance = 3740.83, ideal time = 4.49619, max distance = 3090, carrying capacity = 775
+Train: speed = 919, distance = 1110.62, ideal time = 1.20851, cars count = 9
+Train: speed = 40, distance = 2346.19, ideal time = 58.6548, cars count = 27
+Plane: speed = 143, distance = 4516.85, ideal time = 31.5864, max distance = 18452, carrying capacity = 677
+Ship: speed = 187, distance = 96.8348, ideal time = 0.517833, displacement = 29446, vessel type = liner
+Train: speed = 816, distance = 4552.24, ideal time = 5.57873, cars count = 10
+Train: speed = 647, distance = 2921.95, ideal time = 4.51614, cars count = 15
+Train: speed = 345, distance = 3069.69, ideal time = 8.89766, cars count = 12
+Ship: speed = 10, distance = 1304.89, ideal time = 130.489, displacement = 23032, vessel type = liner
+Ship: speed = 831, distance = 2070.28, ideal time = 2.49131, displacement = 4829, vessel type = tanker
+Train: speed = 403, distance = 2703, ideal time = 6.7072, cars count = 21
+Plane: speed = 549, distance = 226.729, ideal time = 0.412985, max distance = 11878, carrying capacity = 909
+Plane: speed = 458, distance = 4722.97, ideal time = 10.3122, max distance = 5019, carrying capacity = 709
+Ship: speed = 671, distance = 2703.94, ideal time = 4.02972, displacement = 17340, vessel type = tanker
+Ship: speed = 379, distance = 4036.96, ideal time = 10.6516, displacement = 26455, vessel type = liner
+Plane: speed = 855, distance = 3261.49, ideal time = 3.81461, max distance = 2992, carrying capacity = 281
+Plane: speed = 100, distance = 3754.06, ideal time = 37.5406, max distance = 28282, carrying capacity = 613
+Ship: speed = 775, distance = 3451.02, ideal time = 4.45293, displacement = 3209, vessel type = liner
+Ship: speed = 824, distance = 1744.49, ideal time = 2.1171, displacement = 2064, vessel type = tow
+Ship: speed = 996, distance = 3763.94, ideal time = 3.77906, displacement = 26457, vessel type = tanker
+Plane: speed = 808, distance = 3317.21, ideal time = 4.10545, max distance = 14274, carrying capacity = 785
+Plane: speed = 188, distance = 3934.76, ideal time = 20.9296, max distance = 27898, carrying capacity = 74
+Train: speed = 390, distance = 2891.95, ideal time = 7.41525, cars count = 26
+Ship: speed = 710, distance = 1185.13, ideal time = 1.6692, displacement = 25271, vessel type = liner
+Plane: speed = 640, distance = 1506.8, ideal time = 2.35438, max distance = 27233, carrying capacity = 349
+Ship: speed = 586, distance = 1633.22, ideal time = 2.78707, displacement = 19046, vessel type = liner
+Train: speed = 325, distance = 3545.21, ideal time = 10.9083, cars count = 26
+Train: speed = 737, distance = 3822.96, ideal time = 5.1872, cars count = 18
+Plane: speed = 712, distance = 1345.01, ideal time = 1.88905, max distance = 19673, carrying capacity = 472
+Plane: speed = 581, distance = 4986.61, ideal time = 8.58281, max distance = 4851, carrying capacity = 857
+Plane: speed = 561, distance = 3713.82, ideal time = 6.62001, max distance = 11220, carrying capacity = 69
+Ship: speed = 740, distance = 330.001, ideal time = 0.445947, displacement = 16552, vessel type = tanker
+Train: speed = 595, distance = 1042.84, ideal time = 1.75267, cars count = 3
+
+After sort:
+Ship: speed = 565, distance = 170.857, ideal time = 0.302401, displacement = 26031, vessel type = tow
+Plane: speed = 549, distance = 226.729, ideal time = 0.412985, max distance = 11878, carrying capacity = 909
+Ship: speed = 740, distance = 330.001, ideal time = 0.445947, displacement = 16552, vessel type = tanker
+Ship: speed = 187, distance = 96.8348, ideal time = 0.517833, displacement = 29446, vessel type = liner
+Train: speed = 320, distance = 195.274, ideal time = 0.610231, cars count = 31
+Train: speed = 919, distance = 1110.62, ideal time = 1.20851, cars count = 9
+Ship: speed = 710, distance = 1185.13, ideal time = 1.6692, displacement = 25271, vessel type = liner
+Train: speed = 595, distance = 1042.84, ideal time = 1.75267, cars count = 3
+Plane: speed = 712, distance = 1345.01, ideal time = 1.88905, max distance = 19673, carrying capacity = 472
+Ship: speed = 824, distance = 1744.49, ideal time = 2.1171, displacement = 2064, vessel type = tow
+Plane: speed = 640, distance = 1506.8, ideal time = 2.35438, max distance = 27233, carrying capacity = 349
+Ship: speed = 831, distance = 2070.28, ideal time = 2.49131, displacement = 4829, vessel type = tanker
+Ship: speed = 586, distance = 1633.22, ideal time = 2.78707, displacement = 19046, vessel type = liner
+Plane: speed = 716, distance = 2095.97, ideal time = 2.92734, max distance = 7204, carrying capacity = 346
+Train: speed = 723, distance = 2217.26, ideal time = 3.06676, cars count = 12
+Ship: speed = 829, distance = 2672.07, ideal time = 3.22324, displacement = 20487, vessel type = tanker
+Ship: speed = 996, distance = 3763.94, ideal time = 3.77906, displacement = 26457, vessel type = tanker
+Plane: speed = 855, distance = 3261.49, ideal time = 3.81461, max distance = 2992, carrying capacity = 281
+Plane: speed = 703, distance = 2793.45, ideal time = 3.97361, max distance = 23166, carrying capacity = 303
+Ship: speed = 671, distance = 2703.94, ideal time = 4.02972, displacement = 17340, vessel type = tanker
+Plane: speed = 808, distance = 3317.21, ideal time = 4.10545, max distance = 14274, carrying capacity = 785
+Ship: speed = 775, distance = 3451.02, ideal time = 4.45293, displacement = 3209, vessel type = liner
+Plane: speed = 832, distance = 3740.83, ideal time = 4.49619, max distance = 3090, carrying capacity = 775
+Train: speed = 647, distance = 2921.95, ideal time = 4.51614, cars count = 15
+Ship: speed = 313, distance = 1511.66, ideal time = 4.82959, displacement = 24432, vessel type = tanker
+Train: speed = 737, distance = 3822.96, ideal time = 5.1872, cars count = 18
+Train: speed = 627, distance = 3459.39, ideal time = 5.51736, cars count = 9
+Train: speed = 816, distance = 4552.24, ideal time = 5.57873, cars count = 10
+Plane: speed = 845, distance = 4985.92, ideal time = 5.9005, max distance = 11263, carrying capacity = 368
+Plane: speed = 721, distance = 4325.1, ideal time = 5.99875, max distance = 12088, carrying capacity = 865
+Plane: speed = 561, distance = 3713.82, ideal time = 6.62001, max distance = 11220, carrying capacity = 69
+Train: speed = 403, distance = 2703, ideal time = 6.7072, cars count = 21
+Plane: speed = 223, distance = 1567.12, ideal time = 7.02745, max distance = 18249, carrying capacity = 998
+Plane: speed = 459, distance = 3358.27, ideal time = 7.31649, max distance = 27481, carrying capacity = 473
+Plane: speed = 594, distance = 4390.71, ideal time = 7.39177, max distance = 16999, carrying capacity = 446
+Train: speed = 390, distance = 2891.95, ideal time = 7.41525, cars count = 26
+Train: speed = 248, distance = 1982.9, ideal time = 7.99558, cars count = 23
+Plane: speed = 581, distance = 4986.61, ideal time = 8.58281, max distance = 4851, carrying capacity = 857
+Train: speed = 345, distance = 3069.69, ideal time = 8.89766, cars count = 12
+Plane: speed = 392, distance = 3891.95, ideal time = 9.92843, max distance = 21785, carrying capacity = 929
+Plane: speed = 458, distance = 4722.97, ideal time = 10.3122, max distance = 5019, carrying capacity = 709
+Ship: speed = 323, distance = 3432.5, ideal time = 10.6269, displacement = 10848, vessel type = tow
+Ship: speed = 379, distance = 4036.96, ideal time = 10.6516, displacement = 26455, vessel type = liner
+Train: speed = 325, distance = 3545.21, ideal time = 10.9083, cars count = 26
+Plane: speed = 188, distance = 3934.76, ideal time = 20.9296, max distance = 27898, carrying capacity = 74
+Plane: speed = 143, distance = 4516.85, ideal time = 31.5864, max distance = 18452, carrying capacity = 677
+Plane: speed = 100, distance = 3754.06, ideal time = 37.5406, max distance = 28282, carrying capacity = 613
+Train: speed = 40, distance = 2346.19, ideal time = 58.6548, cars count = 27
+Ship: speed = 10, distance = 1304.89, ideal time = 130.489, displacement = 23032, vessel type = liner
+Plane: speed = 13, distance = 3348.73, ideal time = 257.595, max distance = 242, carrying capacity = 721

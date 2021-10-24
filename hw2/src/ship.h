@@ -32,5 +32,6 @@ public:
 private:
     // водоизмещение
     int m_displacement;
+    // тип судна
     VesselType m_vesselType;
 };

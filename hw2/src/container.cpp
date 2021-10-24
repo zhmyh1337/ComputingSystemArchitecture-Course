@@ -1,5 +1,4 @@
-﻿#include <iostream>
-#include "container.h"
+﻿#include "container.h"
 #include "input_helper.h"
 #include "random.h"
 
@@ -34,7 +33,7 @@ void Container::InRnd(std::istream& in)
 {
     size_t count;
     int seed;
-    if (!(std::cin >> count >> seed))
+    if (!(in >> count >> seed))
     {
         InputHelper::InvalidInput();
     }

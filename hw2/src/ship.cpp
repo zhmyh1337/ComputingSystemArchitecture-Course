@@ -8,6 +8,8 @@ Ship::Ship(int speed, float distance, int displacement, VesselType vesselType)
 
 void Ship::Out(std::ostream& out)
 {
+    BaseTransport::Out(out);
+
     std::string_view vesselTypeStr;
     switch (m_vesselType)
     {
@@ -22,7 +24,7 @@ void Ship::Out(std::ostream& out)
         break;
     }
 
-    out << "displacement = " << m_displacement << ", vessel type = " << vesselTypeStr << std::endl;
+    out << ", displacement = " << m_displacement << ", vessel type = " << vesselTypeStr << std::endl;
 }
 
 std::string_view Ship::GetName()

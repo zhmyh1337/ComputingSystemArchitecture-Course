@@ -71,6 +71,7 @@ BaseTransport* BaseTransport::Create(std::istream& in)
         else
         {
             InputHelper::InvalidInput();
+            return nullptr;
         }
 
         return new Ship(speed, distance, displacement, vesselType);
