@@ -5,7 +5,7 @@
 class Random
 {
 public:
-	Random(int seed);
+    Random(int seed);
 
     int Next(int from, int to);
 
@@ -18,5 +18,5 @@ public:
     float NextFloat();
 
 private:
-	std::mt19937 m_rng;
+    std::mt19937 m_rng;
 };
