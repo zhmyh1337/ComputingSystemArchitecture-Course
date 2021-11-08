@@ -1,0 +1,9 @@
+Before sort:
+Plane: speed = 1, distance = 2.0, ideal time = 2.0, max_distance = 3, carrying_capacity = 4
+Train: speed = 5, distance = 6.0, ideal time = 1.2, cars_count = 7
+Ship: speed = 8, distance = 9.0, ideal time = 1.125, displacement = 10, vessel_type = tanker
+
+After sort:
+Ship: speed = 8, distance = 9.0, ideal time = 1.125, displacement = 10, vessel_type = tanker
+Train: speed = 5, distance = 6.0, ideal time = 1.2, cars_count = 7
+Plane: speed = 1, distance = 2.0, ideal time = 2.0, max_distance = 3, carrying_capacity = 4

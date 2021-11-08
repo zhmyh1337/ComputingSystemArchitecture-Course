@@ -1,0 +1,103 @@
+Before sort:
+Train: speed = 510, distance = 4278.47691871873, ideal time = 8.389170428860256, cars_count = 40
+Train: speed = 913, distance = 1212.3987709188134, ideal time = 1.3279285552232347, cars_count = 21
+Plane: speed = 88, distance = 2692.4614353991637, ideal time = 30.596152674990496, max_distance = 22165, carrying_capacity = 570
+Train: speed = 88, distance = 4651.425970841852, ideal time = 52.857113305021045, cars_count = 6
+Plane: speed = 356, distance = 1596.693218588241, ideal time = 4.485093310641126, max_distance = 2252, carrying_capacity = 995
+Ship: speed = 886, distance = 1644.5959727513705, ideal time = 1.8562031295162196, displacement = 29267, vessel_type = tanker
+Plane: speed = 440, distance = 3174.94377825248, ideal time = 7.215781314210182, max_distance = 22713, carrying_capacity = 618
+Ship: speed = 845, distance = 1671.2952328409465, ideal time = 1.9778641808768598, displacement = 21073, vessel_type = tow
+Train: speed = 6, distance = 1136.1055201831916, ideal time = 189.35092003053194, cars_count = 27
+Plane: speed = 717, distance = 4920.923490293143, ideal time = 6.863212678233114, max_distance = 29845, carrying_capacity = 453
+Ship: speed = 278, distance = 4531.004640924252, ideal time = 16.298577845051266, displacement = 15073, vessel_type = liner
+Ship: speed = 277, distance = 3115.384772764667, ideal time = 11.246876435973528, displacement = 18975, vessel_type = liner
+Ship: speed = 422, distance = 3411.715575473081, ideal time = 8.084634065102088, displacement = 26851, vessel_type = liner
+Ship: speed = 874, distance = 4945.135102624589, ideal time = 5.658049316504107, displacement = 16256, vessel_type = tow
+Ship: speed = 909, distance = 2587.6221736884213, ideal time = 2.8466690579630596, displacement = 26789, vessel_type = tanker
+Ship: speed = 129, distance = 2496.991253287944, ideal time = 19.356521343317393, displacement = 9847, vessel_type = liner
+Ship: speed = 879, distance = 1838.6983408844055, ideal time = 2.091806986216616, displacement = 4922, vessel_type = liner
+Ship: speed = 367, distance = 45.088600542104174, ideal time = 0.12285722218556996, displacement = 22312, vessel_type = tow
+Ship: speed = 485, distance = 4891.738697540682, ideal time = 10.086059170186973, displacement = 27158, vessel_type = tanker
+Plane: speed = 823, distance = 4861.199379868214, ideal time = 5.906682114056153, max_distance = 23783, carrying_capacity = 586
+Train: speed = 101, distance = 4191.313726337884, ideal time = 41.498155706315686, cars_count = 24
+Plane: speed = 830, distance = 1228.7512919283765, ideal time = 1.4804232432872007, max_distance = 20735, carrying_capacity = 530
+Plane: speed = 49, distance = 4828.973444337409, ideal time = 98.55047845586549, max_distance = 21233, carrying_capacity = 242
+Ship: speed = 699, distance = 4631.579006540828, ideal time = 6.626007162433231, displacement = 13801, vessel_type = tow
+Train: speed = 592, distance = 2091.330355709003, ideal time = 3.5326526278868293, cars_count = 30
+Train: speed = 92, distance = 2015.4686689805785, ideal time = 21.907268141093244, cars_count = 3
+Plane: speed = 794, distance = 3894.2879445546014, ideal time = 4.904644766441564, max_distance = 14534, carrying_capacity = 683
+Train: speed = 655, distance = 2833.1742811514305, ideal time = 4.325456917788443, cars_count = 20
+Ship: speed = 876, distance = 1733.9630998488776, ideal time = 1.9794099313343352, displacement = 22409, vessel_type = tanker
+Train: speed = 913, distance = 2489.0762228079143, ideal time = 2.726260923119293, cars_count = 10
+Plane: speed = 441, distance = 981.6180142196517, ideal time = 2.2258911887066932, max_distance = 21597, carrying_capacity = 90
+Plane: speed = 12, distance = 798.2458596000397, ideal time = 66.52048830000331, max_distance = 4687, carrying_capacity = 30
+Train: speed = 319, distance = 3430.702602033362, ideal time = 10.754553611389849, cars_count = 1
+Plane: speed = 184, distance = 2500.796208263001, ideal time = 13.591283740559788, max_distance = 18976, carrying_capacity = 920
+Ship: speed = 725, distance = 4979.12437870975, ideal time = 6.867757763737586, displacement = 19302, vessel_type = liner
+Train: speed = 153, distance = 2470.296822643047, ideal time = 16.14573086694802, cars_count = 22
+Plane: speed = 553, distance = 765.8099838949089, ideal time = 1.3848281806417881, max_distance = 17120, carrying_capacity = 619
+Train: speed = 290, distance = 4132.7041257122855, ideal time = 14.250703881766501, cars_count = 24
+Ship: speed = 334, distance = 222.2429642589402, ideal time = 0.6653980965836532, displacement = 27335, vessel_type = tow
+Plane: speed = 292, distance = 630.1092284706883, ideal time = 2.1579083166804396, max_distance = 10317, carrying_capacity = 870
+Train: speed = 389, distance = 3557.729863025311, ideal time = 9.145835123458383, cars_count = 32
+Ship: speed = 559, distance = 613.3446506949974, ideal time = 1.0972176219946286, displacement = 2237, vessel_type = liner
+Train: speed = 110, distance = 1501.72649423642, ideal time = 13.652059038512908, cars_count = 29
+Ship: speed = 257, distance = 1473.3349451813172, ideal time = 5.732820798370883, displacement = 20048, vessel_type = liner
+Plane: speed = 802, distance = 1319.7839569710052, ideal time = 1.6456159064476374, max_distance = 18792, carrying_capacity = 674
+Train: speed = 983, distance = 994.714805820322, ideal time = 1.0119174016483439, cars_count = 15
+Train: speed = 51, distance = 4623.231126429358, ideal time = 90.65159071430112, cars_count = 11
+Train: speed = 248, distance = 574.4348353072648, ideal time = 2.3162694972067133, cars_count = 24
+Train: speed = 784, distance = 7.972781802761952, ideal time = 0.010169364544339225, cars_count = 35
+Plane: speed = 946, distance = 501.885667577941, ideal time = 0.5305345323234049, max_distance = 21840, carrying_capacity = 446
+
+After sort:
+Train: speed = 784, distance = 7.972781802761952, ideal time = 0.010169364544339225, cars_count = 35
+Ship: speed = 367, distance = 45.088600542104174, ideal time = 0.12285722218556996, displacement = 22312, vessel_type = tow
+Plane: speed = 946, distance = 501.885667577941, ideal time = 0.5305345323234049, max_distance = 21840, carrying_capacity = 446
+Ship: speed = 334, distance = 222.2429642589402, ideal time = 0.6653980965836532, displacement = 27335, vessel_type = tow
+Train: speed = 983, distance = 994.714805820322, ideal time = 1.0119174016483439, cars_count = 15
+Ship: speed = 559, distance = 613.3446506949974, ideal time = 1.0972176219946286, displacement = 2237, vessel_type = liner
+Train: speed = 913, distance = 1212.3987709188134, ideal time = 1.3279285552232347, cars_count = 21
+Plane: speed = 553, distance = 765.8099838949089, ideal time = 1.3848281806417881, max_distance = 17120, carrying_capacity = 619
+Plane: speed = 830, distance = 1228.7512919283765, ideal time = 1.4804232432872007, max_distance = 20735, carrying_capacity = 530
+Plane: speed = 802, distance = 1319.7839569710052, ideal time = 1.6456159064476374, max_distance = 18792, carrying_capacity = 674
+Ship: speed = 886, distance = 1644.5959727513705, ideal time = 1.8562031295162196, displacement = 29267, vessel_type = tanker
+Ship: speed = 845, distance = 1671.2952328409465, ideal time = 1.9778641808768598, displacement = 21073, vessel_type = tow
+Ship: speed = 876, distance = 1733.9630998488776, ideal time = 1.9794099313343352, displacement = 22409, vessel_type = tanker
+Ship: speed = 879, distance = 1838.6983408844055, ideal time = 2.091806986216616, displacement = 4922, vessel_type = liner
+Plane: speed = 292, distance = 630.1092284706883, ideal time = 2.1579083166804396, max_distance = 10317, carrying_capacity = 870
+Plane: speed = 441, distance = 981.6180142196517, ideal time = 2.2258911887066932, max_distance = 21597, carrying_capacity = 90
+Train: speed = 248, distance = 574.4348353072648, ideal time = 2.3162694972067133, cars_count = 24
+Train: speed = 913, distance = 2489.0762228079143, ideal time = 2.726260923119293, cars_count = 10
+Ship: speed = 909, distance = 2587.6221736884213, ideal time = 2.8466690579630596, displacement = 26789, vessel_type = tanker
+Train: speed = 592, distance = 2091.330355709003, ideal time = 3.5326526278868293, cars_count = 30
+Train: speed = 655, distance = 2833.1742811514305, ideal time = 4.325456917788443, cars_count = 20
+Plane: speed = 356, distance = 1596.693218588241, ideal time = 4.485093310641126, max_distance = 2252, carrying_capacity = 995
+Plane: speed = 794, distance = 3894.2879445546014, ideal time = 4.904644766441564, max_distance = 14534, carrying_capacity = 683
+Ship: speed = 874, distance = 4945.135102624589, ideal time = 5.658049316504107, displacement = 16256, vessel_type = tow
+Ship: speed = 257, distance = 1473.3349451813172, ideal time = 5.732820798370883, displacement = 20048, vessel_type = liner
+Plane: speed = 823, distance = 4861.199379868214, ideal time = 5.906682114056153, max_distance = 23783, carrying_capacity = 586
+Ship: speed = 699, distance = 4631.579006540828, ideal time = 6.626007162433231, displacement = 13801, vessel_type = tow
+Plane: speed = 717, distance = 4920.923490293143, ideal time = 6.863212678233114, max_distance = 29845, carrying_capacity = 453
+Ship: speed = 725, distance = 4979.12437870975, ideal time = 6.867757763737586, displacement = 19302, vessel_type = liner
+Plane: speed = 440, distance = 3174.94377825248, ideal time = 7.215781314210182, max_distance = 22713, carrying_capacity = 618
+Ship: speed = 422, distance = 3411.715575473081, ideal time = 8.084634065102088, displacement = 26851, vessel_type = liner
+Train: speed = 510, distance = 4278.47691871873, ideal time = 8.389170428860256, cars_count = 40
+Train: speed = 389, distance = 3557.729863025311, ideal time = 9.145835123458383, cars_count = 32
+Ship: speed = 485, distance = 4891.738697540682, ideal time = 10.086059170186973, displacement = 27158, vessel_type = tanker
+Train: speed = 319, distance = 3430.702602033362, ideal time = 10.754553611389849, cars_count = 1
+Ship: speed = 277, distance = 3115.384772764667, ideal time = 11.246876435973528, displacement = 18975, vessel_type = liner
+Plane: speed = 184, distance = 2500.796208263001, ideal time = 13.591283740559788, max_distance = 18976, carrying_capacity = 920
+Train: speed = 110, distance = 1501.72649423642, ideal time = 13.652059038512908, cars_count = 29
+Train: speed = 290, distance = 4132.7041257122855, ideal time = 14.250703881766501, cars_count = 24
+Train: speed = 153, distance = 2470.296822643047, ideal time = 16.14573086694802, cars_count = 22
+Ship: speed = 278, distance = 4531.004640924252, ideal time = 16.298577845051266, displacement = 15073, vessel_type = liner
+Ship: speed = 129, distance = 2496.991253287944, ideal time = 19.356521343317393, displacement = 9847, vessel_type = liner
+Train: speed = 92, distance = 2015.4686689805785, ideal time = 21.907268141093244, cars_count = 3
+Plane: speed = 88, distance = 2692.4614353991637, ideal time = 30.596152674990496, max_distance = 22165, carrying_capacity = 570
+Train: speed = 101, distance = 4191.313726337884, ideal time = 41.498155706315686, cars_count = 24
+Train: speed = 88, distance = 4651.425970841852, ideal time = 52.857113305021045, cars_count = 6
+Plane: speed = 12, distance = 798.2458596000397, ideal time = 66.52048830000331, max_distance = 4687, carrying_capacity = 30
+Train: speed = 51, distance = 4623.231126429358, ideal time = 90.65159071430112, cars_count = 11
+Plane: speed = 49, distance = 4828.973444337409, ideal time = 98.55047845586549, max_distance = 21233, carrying_capacity = 242
+Train: speed = 6, distance = 1136.1055201831916, ideal time = 189.35092003053194, cars_count = 27
